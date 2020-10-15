@@ -13,3 +13,9 @@ function hanoi(N,start,to,via){
       }
  }
  ```
+
+```js
+function hanoiCount(N){
+  console.log(Math.pow(2,N) - 1)
+  }
+```
