@@ -1,2 +1,5 @@
 안녕하세요. git commit을 위해 파일을 변경합니다~
 
+git init으로 저장소 만들고 git remote add로 원격 저장소 등록했음
+그다음 commit하고 push가 안되네
+
